@@ -68,9 +68,3 @@ docker-compose down -v
   ```bash
   docker-compose logs -f
   ```
-
-## 📌 Notes
-
-- This setup is intended for **development and testing** only.  
-- For production use, always secure your MinIO instance properly (e.g., stronger passwords, certificates).
-
